@@ -1,7 +1,7 @@
 # EJERCICIOS PHP
 
 ## ¿QUÉ ENCONTRAREIS?
-En este repositorio encontrareis scripts en PHP sobre ejercicios variados realizados por mi en un curso de programación.
+En este repositorio encontrareis scripts en PHP, sobre varios ejercicios realizados en un curso de programación.
 
 ## CONTRIBUCIÓN
 ¡Estoy abierta a recibir contribuciones! Si quieres mejorar este proyecto, por favor sigue los siguientes pasos:
