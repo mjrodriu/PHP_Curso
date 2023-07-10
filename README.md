@@ -1,10 +1,10 @@
 # EJERCICIOS PHP
 
-## Descripción
+## ¿QUÉ ENCONTRAREIS?
 En este repositorio encontrareis scripts en PHP sobre ejercicios variados realizados por mi en un curso de programación.
 
 ## Contribución
-¡Estamos abiertos a recibir contribuciones! Si quieres mejorar este proyecto, por favor sigue los siguientes pasos:
+¡Estoy abierta a recibir contribuciones! Si quieres mejorar este proyecto, por favor sigue los siguientes pasos:
 1. Haz un fork del repositorio.
 2. Crea una rama para tu nueva funcionalidad: `git checkout -b nueva-funcionalidad`
 3. Realiza tus cambios y haz commits: `git commit -m "Agrega nueva funcionalidad"`
