@@ -1,4 +1,5 @@
 <?php
+//EJERCICIO PARA RECORRER ARRAYS Y VISUALIZAR LOS PUNTOS QUE HAN OBTENIDO LOS EQUIPOS (BULLS Y LAKERS) Y QUIEN HA GANADO.
 
 // PT1 shot1 
 // PT2 shot2
@@ -81,15 +82,3 @@ foreach ($actions as $tiempo => $actiontime) {
 } else {
     echo "¡EMPATE!";
 }
-
-/*      foreach ($actiontime as $puntoscuartos => $puntitos) {
-        echo $puntoscuartos . "\n";
-     } */
-     /* var_dump( $actiontime ); */
-     /* echo "\n";  */
-     //echo $action["shot1"][ "name" ] . "\n";
-       
- /*     echo "{$puntos[ "type" ]}";
-        echo "\n"; 
-        echo "{$puntos[ "nameTeam" ]}";
-        echo "\n";  */
